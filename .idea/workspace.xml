@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1b83922-2289-4afe-8a91-688640e2a37c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/messageBoard$testMessageBoard.coverage" NAME="testMessageBoard Coverage Results" MODIFIED="1555681715240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/messageBoard" />
+    <SUITE FILE_PATH="coverage/messageBoard$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1555221413224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/messageBoard" />
+    <SUITE FILE_PATH="coverage/gloryRoadApi$testApi.coverage" NAME="testApi Coverage Results" MODIFIED="1558916374791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/create.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
+              <folding>
+                <element signature="e#16#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/register.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="56" column="69" selection-start-line="56" selection-start-column="69" selection-end-line="56" selection-end-column="69" />
+              <folding>
+                <element signature="e#16#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/update.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <folding>
+                <element signature="e#33#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testApi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2596">
+              <caret line="127" column="78" selection-start-line="127" selection-start-column="78" selection-end-line="127" selection-end-column="78" />
+              <folding>
+                <element signature="e#16#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="20" selection-start-line="20" selection-end-line="36" />
+              <folding>
+                <element signature="e#17#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/flask_restful/reqparse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7766">
+              <caret line="361" column="36" selection-start-line="361" selection-start-column="36" selection-end-line="361" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/sqlalchemy/sql/schema.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23056">
+              <caret line="1073" column="21" selection-start-line="1073" selection-start-column="21" selection-end-line="1073" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/sqlalchemy/sql/sqltypes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6820">
+              <caret line="337" column="6" selection-start-line="337" selection-start-column="6" selection-end-line="337" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/sqlalchemy/sql/expression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2222">
+              <caret line="188" selection-start-line="188" selection-end-line="188" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alert</find>
+      <find>list-group</find>
+      <find>list-group-item list-group-item-action flex-column</find>
+      <find>form-group required</find>
+      <find>form</find>
+      <find>moment</find>
+      <find>type</find>
+      <find>passwordInDb</find>
+      <find>re</find>
+      <find>paramsNumResult</find>
+      <find>generate</find>
+      <find>userLoginTime</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/messageBoard/forms.py" />
+        <option value="$PROJECT_DIR$/bootstrap test/bootstrap test.html" />
+        <option value="$PROJECT_DIR$/messageBoard/templates/indextest.html" />
+        <option value="$PROJECT_DIR$/bootstrap test/indextest.html" />
+        <option value="$PROJECT_DIR$/bootstrap test/bootstrap test.py" />
+        <option value="$PROJECT_DIR$/messageBoard/static/script.js" />
+        <option value="$PROJECT_DIR$/messageBoard/settings.py" />
+        <option value="$PROJECT_DIR$/messageBoard/.flaskenv" />
+        <option value="$PROJECT_DIR$/messageBoard/errors.html" />
+        <option value="$PROJECT_DIR$/errors.py" />
+        <option value="$PROJECT_DIR$/messageBoard/errors.py" />
+        <option value="$PROJECT_DIR$/messageBoard/templates/errors/404.html" />
+        <option value="$PROJECT_DIR$/messageBoard/templates/errors/500.html" />
+        <option value="$PROJECT_DIR$/messageBoard/testMessageBoard.py" />
+        <option value="$PROJECT_DIR$/messageBoard/templates/macros.html" />
+        <option value="$PROJECT_DIR$/messageBoard/templates/base_bkp.html" />
+        <option value="$PROJECT_DIR$/messageBoard/static/css/bootstrap-grid.css" />
+        <option value="$PROJECT_DIR$/bootstrap test/cssTest.html" />
+        <option value="$PROJECT_DIR$/messageBoard/views.py" />
+        <option value="$PROJECT_DIR$/messageBoard/templates/cssTest.html" />
+        <option value="$PROJECT_DIR$/messageBoard/templates/index_bkp.html" />
+        <option value="$PROJECT_DIR$/messageBoard/templates/base.html" />
+        <option value="$PROJECT_DIR$/bootstrap test/test.py" />
+        <option value="$PROJECT_DIR$/messageBoard/commands.py" />
+        <option value="$PROJECT_DIR$/messageBoard/__init__.py" />
+        <option value="$PROJECT_DIR$/messageBoard/models.py" />
+        <option value="$PROJECT_DIR$/messageBoard/templates/index.html" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/settings.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/errors.py" />
+        <option value="$PROJECT_DIR$/testMessageBoard.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/views.py" />
+        <option value="$PROJECT_DIR$/.flaskenv" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/commands.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/common/utils.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/resources/__init__.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/__init__.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/resources/login.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/common/util.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/resources/newBlog.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/resources/register.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/models.py" />
+        <option value="$PROJECT_DIR$/testApi.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/resources/create.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/resources/update.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="51" />
+    <option name="width" value="1386" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gloryRoadApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gloryRoadApi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gloryRoadApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gloryRoadApi" type="462c0819:PsiDirectoryNode" />
+              <item name="gloryRoadApi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gloryRoadApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gloryRoadApi" type="462c0819:PsiDirectoryNode" />
+              <item name="gloryRoadApi" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gloryRoadApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gloryRoadApi" type="462c0819:PsiDirectoryNode" />
+              <item name="gloryRoadApi" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\flask\messageBoard\messageBoard\static" />
+      <recent name="D:\flask\messageBoard\messageBoard\static\css" />
+      <recent name="D:\flask\messageBoard\messageBoard\static\js" />
+      <recent name="D:\flask\messageBoard\messageBoard\templates" />
+      <recent name="D:\flask\messageBoard\messageBoard" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\flask\messageBoard\messageBoard" />
+      <recent name="D:\flask\messageBoard" />
+      <recent name="D:\flask\messageBoard\messageBoard\static\js" />
+      <recent name="D:\flask\messageBoard\bootstrap test" />
+      <recent name="D:\flask\messageBoard\messageBoard\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testApi">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gloryRoadApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/messageBoard" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/messageBoard/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testApi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gloryRoadApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testApi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testMessageBoard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gloryRoadApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/messageBoard" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\flask\messageBoard\testMessageBoard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testApi" />
+        <item itemvalue="Python.testMessageBoard" />
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1b83922-2289-4afe-8a91-688640e2a37c" name="Default Changelist" comment="" />
+      <created>1555132610145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555132610145</updated>
+      <workItem from="1555132612542" duration="10387000" />
+      <workItem from="1555200588500" duration="19668000" />
+      <workItem from="1555337872457" duration="1368000" />
+      <workItem from="1555420750543" duration="5667000" />
+      <workItem from="1555506605502" duration="6304000" />
+      <workItem from="1555592840645" duration="1504000" />
+      <workItem from="1555679009869" duration="5313000" />
+      <workItem from="1555766139761" duration="1410000" />
+      <workItem from="1555804445999" duration="593000" />
+      <workItem from="1555938844396" duration="588000" />
+      <workItem from="1556024713585" duration="1192000" />
+      <workItem from="1556115162800" duration="598000" />
+      <workItem from="1556198254446" duration="596000" />
+      <workItem from="1558358571253" duration="295000" />
+      <workItem from="1558358870208" duration="5131000" />
+      <workItem from="1558364929302" duration="205000" />
+      <workItem from="1558365145281" duration="411000" />
+      <workItem from="1558392596419" duration="4464000" />
+      <workItem from="1558447933140" duration="5309000" />
+      <workItem from="1558535149692" duration="4294000" />
+      <workItem from="1558565331894" duration="4406000" />
+      <workItem from="1558619467445" duration="5695000" />
+      <workItem from="1558651637017" duration="5526000" />
+      <workItem from="1558704872046" duration="6092000" />
+      <workItem from="1558738174892" duration="3083000" />
+      <workItem from="1558792320053" duration="6593000" />
+      <workItem from="1558830398563" duration="22012000" />
+      <workItem from="1558911082809" duration="5463000" />
+      <workItem from="1558969565952" duration="783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="134950000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="182" y="51" width="1386" height="788" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14253394" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32977098" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3832061" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.6381679" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18099548" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32977098" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38931298" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bootstrap test/indextest.html" />
+    <entry file="file://$PROJECT_DIR$/messageBoard/errors.html" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/templates/errors/404.html" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/templates/errors/500.html" />
+    <entry file="file://$USER_HOME$/.virtualenvs/messageBoard-0K8c_mmc/Lib/site-packages/click/termui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-314">
+          <caret line="140" column="33" selection-start-line="140" selection-start-column="33" selection-end-line="140" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/messageBoard-0K8c_mmc/Lib/site-packages/flask/templating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap test/bootstrap test.html" />
+    <entry file="file://$PROJECT_DIR$/bootstrap test/bootstrap test.py" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/cssTest.html" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/css/bootstrap-grid.css" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/css/bootstrap-reboot.css" />
+    <entry file="file://$PROJECT_DIR$/messageBoard/static/css/style_bkp.css" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/js/bootstrap.bundle.js" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/js/popper.min.js" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/bootstrap test/test.py" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/js/moment-with-locales.min.js" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/messageBoard-0K8c_mmc/Lib/site-packages/flask/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="110" column="8" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/templates/base.html" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/templates/base-1.html" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/templates/cssTest.html" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/templates/index-1.html" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/templates/macros.html" />
+    <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/flask/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/views.py" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/commands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="e#16#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/errors.py" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/forms.py" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/flask_restful/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12232">
+          <caret line="572" selection-start-line="572" selection-end-line="572" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/187647878/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="1766" column="6" selection-start-line="1766" selection-start-column="6" selection-end-line="1766" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.flaskenv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="75" />
+          <folding>
+            <element signature="e#16#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="13" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/create.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
+          <folding>
+            <element signature="e#16#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="56" column="69" selection-start-line="56" selection-start-column="69" selection-end-line="56" selection-end-column="69" />
+          <folding>
+            <element signature="e#16#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2596">
+          <caret line="127" column="78" selection-start-line="127" selection-start-column="78" selection-end-line="127" selection-end-column="78" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/flask_restful/reqparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7766">
+          <caret line="361" column="36" selection-start-line="361" selection-start-column="36" selection-end-line="361" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/sqlalchemy/sql/schema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23056">
+          <caret line="1073" column="21" selection-start-line="1073" selection-start-column="21" selection-end-line="1073" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/sqlalchemy/sql/sqltypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6820">
+          <caret line="337" column="6" selection-start-line="337" selection-start-column="6" selection-end-line="337" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/sqlalchemy/sql/expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2222">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="20" selection-start-line="20" selection-end-line="36" />
+          <folding>
+            <element signature="e#17#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#33#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

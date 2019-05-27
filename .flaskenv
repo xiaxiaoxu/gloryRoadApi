@@ -1,0 +1,2 @@
+FLASK_APP=testApi
+FLASK_ENV=development
