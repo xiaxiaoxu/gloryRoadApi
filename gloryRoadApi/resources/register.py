@@ -14,6 +14,7 @@ import hashlib
 import os
 import uuid
 from gloryRoadApi.common import util
+from gloryRoadApi.common.log import info, error,warning
 
 
 
@@ -35,9 +36,9 @@ class Register(Resource):
             userPassword = self.args['password']
             email = self.args['email']
             neededParams = self.args.keys()
-            print "neededParams:", neededParams
+            info("neededParams: %s" % neededParams)
             requestParams = request.json.keys()
-            print "requestParams:", requestParams
+            info("requestParams: %s" % requestParams)
 
             # 判断参数是否都有传过来，是否多了，是否错了
             if userName and userPassword and email and util.paramsNumResult(neededParams,requestParams):
@@ -58,12 +59,12 @@ class Register(Resource):
                 else:
                     return {"code": "02", "message": u"参数值不合法，不符合约束条件"}
             else:
-                return {"code": "03","message": u"参数错误，可能原因：参数少传了、多传了、写错了"}
+                return {"code": "03","message": u"参数错误，可能原因：参数少传了、多传了、写错了、值为空"}
 
 
 
 
 
         except Exception as e:
-            print "error of register: %s" % e
+            error("error of register: %s" % e)
             return {"code": "999","message": u"未知错误"}

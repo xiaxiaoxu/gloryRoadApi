@@ -14,7 +14,7 @@ import hashlib
 import os
 import uuid
 from gloryRoadApi.common import util
-
+from gloryRoadApi.common.log import info, warning, error
 
 
 # login接口
@@ -29,13 +29,13 @@ class Login(Resource):
     # login接口处理post请求和参数验证
     def post(self):
         try:
-            print "Login -> args.keys():",self.args.keys()
+            info("Login -> args.keys(): %s" % self.args.keys())
             userName = self.args['username']
             userPassword = self.args['password']
             neededParams = self.args.keys()  # 记录self.reqparse.add_argument中添加的参数列表
-            print "neededParams:", neededParams
+            info("neededParams: %s" % neededParams)
             requestParams = request.json.keys()  # 记录发送请求中携带的参数列表
-            print "requestParams:", requestParams
+            info("requestParams: %s " % requestParams)
 
             # 判断参数是否都有传过来，都传过来了，并且没有多传或少传，继续做参数值的校验，否则返回“参数错误”
             if userName and userPassword  and util.paramsNumResult(neededParams, requestParams):
@@ -68,5 +68,5 @@ class Login(Resource):
                 return {"code": "03","message": u"参数错误，可能原因：参数少传了、多传了、写错了"}
 
         except Exception as e:
-            print "error of login: %s" % e
+            error("error of login: %s" % e)
             return {"code": "999","message": u"未知错误"}

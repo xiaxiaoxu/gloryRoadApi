@@ -13,8 +13,6 @@ db = SQLAlchemy(app)
 # print "dir(db.column):",dir(db.column)
 
 
-#from gloryRoadApi import errors,commands
-
 
 
 

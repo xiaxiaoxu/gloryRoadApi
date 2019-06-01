@@ -8,6 +8,7 @@ from flask_restful import reqparse
 from flask_restful import request
 from flask_restful import fields, marshal_with
 from gloryRoadApi.common import util
+from gloryRoadApi.common.log import info, error,warning
 
 # 处理新增博文接口
 class Create(Resource):
@@ -54,7 +55,7 @@ class Create(Resource):
                             # 先获取到创建博文的时间
                             createBlogTimeString = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(requestTimestamp))
                             print "createBlogTimeString: %s" % createBlogTimeString
-                            #存表: blogTitle、blogContent、user_id(User表中的id)
+                            #存表: blogTitle、blogContent、user_id(User表中的id),createTime
                             blogNew = UserBlog(blogTitle = blogTitle, blogContent = blogContent, user_id = userid, createTime = createBlogTimeString)
                             db.session.add(blogNew)
                             db.session.commit()
@@ -68,7 +69,7 @@ class Create(Resource):
                     return {"code": "02", "message": u"参数值不合法，用户不存在"}
             else:
                 #参数没传全，或参数写错了，或参数多了
-                return {"code": "03", "message": u"参数错误，可能原因：参数少传了、多传了、写错了"}
+                return {"code": "03", "message": u"参数错误，可能原因：参数少传了、多传了、写错了、值为空"}
 
         except Exception as e:
             print "error of register: %s" % e

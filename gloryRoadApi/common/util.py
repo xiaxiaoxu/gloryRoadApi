@@ -3,7 +3,7 @@ import re
 import hashlib
 import time
 from gloryRoadApi import app, db
-from gloryRoadApi.models import User
+from gloryRoadApi.models import User,UserBlog
 import re
 # md5加密方法
 import hashlib
@@ -141,3 +141,37 @@ def calculateTimeDiff(userLoginTimeStr, timestamp):
             return "wrong"
     except Exception, e:
         print "calculate time difference error: %s" % e
+
+
+'''
+responseDict = {"data": [], "code": "00", "userid": userid}
+userOfBlog = User.query.filter(User.id == userid).first()
+blogs = userOfBlog.blogs
+'''
+# 用于查询用户博文接口，填充返回字典responseDict
+def fillInResponseDict(responseDict, blogs):
+    # 遍历用户的所有博文，把博文的各字段赋值给博文字典的各个值（按照接口文档的格式）
+    #blogDict = {}
+    for blog in blogs:
+        # 定义一个临时字典，组装博文的数据
+        blogDict = {}# 如果定义在for前面，由于append的是blogDict的引用，在填充完response后，存的blogDict最后都会替换为最后一次blogDict的值
+        print "----blog: %s" % blog
+        blogDict["update_time"] = blog.updateTime
+        blogDict["title"] = blog.blogTitle
+        blogDict["content"] = blog.blogContent
+        blogDict["articleId"] = blog.articleId
+        blogDict["owner"] = blog.user.id
+        blogDict["posted_on"] = blog.createTime
+        print "blogDict: %s" % blogDict
+        #遍历完一个博文后，把blogDict添加到responseDict的"data"列表中
+        responseDict["data"].append(blogDict)
+        print "responseDict: %s" % responseDict
+    #把blogs内容填充到responseDict后，把responseDict返回
+    return responseDict
+
+
+if __name__ == '__main__':
+  blogs = User.query.filter(User.id == 1).first().blogs
+  #print blogs
+  responseDict = {"data": [], "code": "00", "userid": 1}
+  print fillInResponseDict(responseDict, blogs)

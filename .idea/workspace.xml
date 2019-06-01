@@ -9,19 +9,68 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/gloryRoadApi$settings.coverage" NAME="settings Coverage Results" MODIFIED="1559347840139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gloryRoadApi" />
+    <SUITE FILE_PATH="coverage/gloryRoadApi$Log.coverage" NAME="Log Coverage Results" MODIFIED="1559349251893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gloryRoadApi/common" />
     <SUITE FILE_PATH="coverage/messageBoard$testMessageBoard.coverage" NAME="testMessageBoard Coverage Results" MODIFIED="1555681715240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/messageBoard" />
     <SUITE FILE_PATH="coverage/messageBoard$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1555221413224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/messageBoard" />
-    <SUITE FILE_PATH="coverage/gloryRoadApi$testApi.coverage" NAME="testApi Coverage Results" MODIFIED="1558916374791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gloryRoadApi$testApi.coverage" NAME="testApi Coverage Results" MODIFIED="1559344093851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gloryRoadApi$testRequest.coverage" NAME="testRequest Coverage Results" MODIFIED="1559229393647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gloryRoadApi" />
+    <SUITE FILE_PATH="coverage/gloryRoadApi$util.coverage" NAME="util Coverage Results" MODIFIED="1559173213514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gloryRoadApi/common" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/create.py">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/log.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
+            <state relative-caret-position="308">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#16#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/Logger.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/gloryRoadApi.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="66" column="17" lean-forward="true" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
               <folding>
                 <element signature="e#16#48#0" expanded="true" />
+                <element signature="e#1453#2852#0" />
               </folding>
             </state>
           </provider>
@@ -30,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/register.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="56" column="69" selection-start-line="56" selection-start-column="69" selection-end-line="56" selection-end-column="69" />
+            <state relative-caret-position="148">
+              <caret line="68" column="46" selection-start-line="68" selection-start-column="46" selection-end-line="68" selection-end-column="46" />
               <folding>
                 <element signature="e#16#39#0" expanded="true" />
               </folding>
@@ -39,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/update.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <state relative-caret-position="176">
+              <caret line="43" column="21" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="21" />
               <folding>
                 <element signature="e#33#65#0" expanded="true" />
               </folding>
@@ -52,70 +101,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testApi.py">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/getBlogContent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/util.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2596">
-              <caret line="127" column="78" selection-start-line="127" selection-start-column="78" selection-end-line="127" selection-end-column="78" />
+            <state relative-caret-position="264">
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
               <folding>
-                <element signature="e#16#25#0" expanded="true" />
+                <element signature="e#33#65#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gloryRoadApi/models.py">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/getBlogsContent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="20" selection-start-line="20" selection-end-line="36" />
+            <state relative-caret-position="221">
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/getBlogsOfUser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/create.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
               <folding>
-                <element signature="e#17#46#0" expanded="true" />
+                <element signature="e#16#48#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/flask_restful/reqparse.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7766">
-              <caret line="361" column="36" selection-start-line="361" selection-start-column="36" selection-end-line="361" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/sqlalchemy/sql/schema.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23056">
-              <caret line="1073" column="21" selection-start-line="1073" selection-start-column="21" selection-end-line="1073" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/sqlalchemy/sql/sqltypes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6820">
-              <caret line="337" column="6" selection-start-line="337" selection-start-column="6" selection-end-line="337" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/sqlalchemy/sql/expression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2222">
-              <caret line="188" selection-start-line="188" selection-end-line="188" />
             </state>
           </provider>
         </entry>
@@ -145,14 +167,13 @@
       <find>paramsNumResult</find>
       <find>generate</find>
       <find>userLoginTime</find>
+      <find>blogNew</find>
+      <find>PRINT</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/settings.py" />
-        <option value="$PROJECT_DIR$/__init__.py" />
-        <option value="$PROJECT_DIR$/messageBoard/forms.py" />
         <option value="$PROJECT_DIR$/bootstrap test/bootstrap test.html" />
         <option value="$PROJECT_DIR$/messageBoard/templates/indextest.html" />
         <option value="$PROJECT_DIR$/bootstrap test/indextest.html" />
@@ -179,7 +200,6 @@
         <option value="$PROJECT_DIR$/messageBoard/__init__.py" />
         <option value="$PROJECT_DIR$/messageBoard/models.py" />
         <option value="$PROJECT_DIR$/messageBoard/templates/index.html" />
-        <option value="$PROJECT_DIR$/gloryRoadApi/settings.py" />
         <option value="$PROJECT_DIR$/gloryRoadApi/errors.py" />
         <option value="$PROJECT_DIR$/testMessageBoard.py" />
         <option value="$PROJECT_DIR$/gloryRoadApi/views.py" />
@@ -187,30 +207,38 @@
         <option value="$PROJECT_DIR$/gloryRoadApi/commands.py" />
         <option value="$PROJECT_DIR$/gloryRoadApi/common/utils.py" />
         <option value="$PROJECT_DIR$/gloryRoadApi/resources/__init__.py" />
-        <option value="$PROJECT_DIR$/gloryRoadApi/__init__.py" />
-        <option value="$PROJECT_DIR$/gloryRoadApi/resources/login.py" />
-        <option value="$PROJECT_DIR$/gloryRoadApi/common/util.py" />
         <option value="$PROJECT_DIR$/gloryRoadApi/resources/newBlog.py" />
-        <option value="$PROJECT_DIR$/gloryRoadApi/resources/register.py" />
         <option value="$PROJECT_DIR$/gloryRoadApi/models.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/common/util.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/testRequest.py" />
         <option value="$PROJECT_DIR$/testApi.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/__init__.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/settings.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/common/Log.py" />
         <option value="$PROJECT_DIR$/gloryRoadApi/resources/create.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/resources/delete.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/resources/getBlogContent.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/resources/getBlogsContent.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/resources/getBlogsOfUser.py" />
         <option value="$PROJECT_DIR$/gloryRoadApi/resources/update.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/common/log.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/common/Logger.conf" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/resources/login.py" />
+        <option value="$PROJECT_DIR$/gloryRoadApi/resources/register.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="51" />
+    <option name="x" value="169" />
+    <option name="y" value="75" />
     <option name="width" value="1386" />
-    <option name="height" value="702" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,6 +267,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,22 +276,22 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\flask\messageBoard\messageBoard\static" />
-      <recent name="D:\flask\messageBoard\messageBoard\static\css" />
-      <recent name="D:\flask\messageBoard\messageBoard\static\js" />
-      <recent name="D:\flask\messageBoard\messageBoard\templates" />
-      <recent name="D:\flask\messageBoard\messageBoard" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\flask\messageBoard\messageBoard" />
       <recent name="D:\flask\messageBoard" />
       <recent name="D:\flask\messageBoard\messageBoard\static\js" />
       <recent name="D:\flask\messageBoard\bootstrap test" />
       <recent name="D:\flask\messageBoard\messageBoard\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\flask\gloryRoadApi\gloryRoadApi\common" />
+      <recent name="D:\flask\gloryRoadApi\gloryRoadApi" />
+      <recent name="D:\flask\gloryRoadApi" />
+      <recent name="D:\flask\messageBoard\messageBoard\static" />
+      <recent name="D:\flask\messageBoard\messageBoard\static\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -277,8 +306,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.testApi">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Log">
+    <configuration name="Log" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="gloryRoadApi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,12 +315,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/messageBoard" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gloryRoadApi/common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/messageBoard/__init__.py" />
+      <option name="SCRIPT_NAME" value="D:\flask\gloryRoadApi\gloryRoadApi\common\log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gloryRoadApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gloryRoadApi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gloryRoadApi/settings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +373,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testMessageBoard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="testRequest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="gloryRoadApi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,12 +381,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/messageBoard" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gloryRoadApi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\flask\messageBoard\testMessageBoard.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gloryRoadApi/testRequest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,11 +395,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="util" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gloryRoadApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gloryRoadApi/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gloryRoadApi/common/util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.testApi" />
+      <item itemvalue="Python.util" />
+      <item itemvalue="Python.testRequest" />
+      <item itemvalue="Python.settings" />
+      <item itemvalue="Python.Log" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Log" />
+        <item itemvalue="Python.settings" />
         <item itemvalue="Python.testApi" />
-        <item itemvalue="Python.testMessageBoard" />
-        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.testRequest" />
+        <item itemvalue="Python.util" />
       </list>
     </recent_temporary>
   </component>
@@ -391,31 +473,44 @@
       <workItem from="1558830398563" duration="22012000" />
       <workItem from="1558911082809" duration="5463000" />
       <workItem from="1558969565952" duration="783000" />
+      <workItem from="1558997436740" duration="4609000" />
+      <workItem from="1559053113339" duration="533000" />
+      <workItem from="1559083975309" duration="6772000" />
+      <workItem from="1559140456888" duration="1891000" />
+      <workItem from="1559170333366" duration="6856000" />
+      <workItem from="1559226085122" duration="594000" />
+      <workItem from="1559227154368" duration="3053000" />
+      <workItem from="1559256605981" duration="6686000" />
+      <workItem from="1559343318183" duration="3518000" />
+      <workItem from="1559347158312" duration="11000" />
+      <workItem from="1559347243522" duration="36000" />
+      <workItem from="1559347383323" duration="541000" />
+      <workItem from="1559348027071" duration="1433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134950000" />
+    <option name="totallyTimeSpent" value="171483000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="182" y="51" width="1386" height="788" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14253394" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18910742" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32977098" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3832061" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3747954" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.6381679" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.15641476" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -451,26 +546,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bootstrap test/indextest.html" />
-    <entry file="file://$PROJECT_DIR$/messageBoard/errors.html" />
-    <entry file="file://$PROJECT_DIR$/gloryRoadApi/templates/errors/404.html" />
-    <entry file="file://$PROJECT_DIR$/gloryRoadApi/templates/errors/500.html" />
-    <entry file="file://$USER_HOME$/.virtualenvs/messageBoard-0K8c_mmc/Lib/site-packages/click/termui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-314">
-          <caret line="140" column="33" selection-start-line="140" selection-start-column="33" selection-end-line="140" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/messageBoard-0K8c_mmc/Lib/site-packages/flask/templating.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap test/bootstrap test.html" />
-    <entry file="file://$PROJECT_DIR$/bootstrap test/bootstrap test.py" />
     <entry file="file://$PROJECT_DIR$/gloryRoadApi/cssTest.html" />
     <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/css/bootstrap-grid.css" />
     <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/css/bootstrap-reboot.css" />
@@ -482,12 +557,6 @@
     <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/js/moment-with-locales.min.js" />
     <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/js/script.js" />
     <entry file="file://$PROJECT_DIR$/gloryRoadApi/static/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/Pipfile.lock">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pipfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/messageBoard-0K8c_mmc/Lib/site-packages/flask/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -513,123 +582,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="e#16#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gloryRoadApi/errors.py" />
     <entry file="file://$PROJECT_DIR$/gloryRoadApi/forms.py" />
-    <entry file="file://$PROJECT_DIR$/gloryRoadApi/settings.py">
+    <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/sqlalchemy/sql/schema.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#16#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/flask_restful/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12232">
-          <caret line="572" selection-start-line="572" selection-end-line="572" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/187647878/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="1766" column="6" selection-start-line="1766" selection-start-column="6" selection-end-line="1766" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.flaskenv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1166">
-          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="75" />
-          <folding>
-            <element signature="e#16#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gloryRoadApi/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" selection-start-line="11" selection-end-line="13" />
-          <folding>
-            <element signature="e#17#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/create.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
-          <folding>
-            <element signature="e#16#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/register.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="56" column="69" selection-start-line="56" selection-start-column="69" selection-end-line="56" selection-end-column="69" />
-          <folding>
-            <element signature="e#16#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testApi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2596">
-          <caret line="127" column="78" selection-start-line="127" selection-start-column="78" selection-end-line="127" selection-end-column="78" />
-          <folding>
-            <element signature="e#16#25#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="23056">
+          <caret line="1073" column="21" selection-start-line="1073" selection-start-column="21" selection-end-line="1073" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/flask_restful/reqparse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7766">
-          <caret line="361" column="36" selection-start-line="361" selection-start-column="36" selection-end-line="361" selection-end-column="36" />
+        <state relative-caret-position="6072">
+          <caret line="284" column="8" selection-start-line="284" selection-start-column="8" selection-end-line="284" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/sqlalchemy/sql/schema.py">
+    <entry file="file://$USER_HOME$/.virtualenvs/gloryRoadApi-jddd5B9m/Lib/site-packages/flask_restful/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23056">
-          <caret line="1073" column="21" selection-start-line="1073" selection-start-column="21" selection-end-line="1073" selection-end-column="25" />
+        <state relative-caret-position="7282">
+          <caret line="347" column="8" selection-start-line="347" selection-start-column="8" selection-end-line="347" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/187647878/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73832">
+          <caret line="3356" column="6" selection-start-line="3356" selection-start-column="6" selection-end-line="3356" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -647,22 +639,169 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/common/util.py" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/testRequest.py" />
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3102">
+          <caret line="150" column="31" selection-start-line="150" selection-start-column="31" selection-end-line="150" selection-end-column="31" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.flaskenv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gloryRoadApi/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="20" selection-start-line="20" selection-end-line="36" />
+        <state relative-caret-position="616">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="14" />
           <folding>
             <element signature="e#17#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/getBlogsOfUser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/update.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state relative-caret-position="176">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="21" />
           <folding>
             <element signature="e#33#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1166" column="48" lean-forward="true" selection-start-line="1166" selection-start-column="48" selection-end-line="1166" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#16#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/Logger.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/common/gloryRoadApi.log">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/getBlogContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <folding>
+            <element signature="e#33#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/getBlogsContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="66" column="17" lean-forward="true" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
+          <folding>
+            <element signature="e#16#48#0" expanded="true" />
+            <element signature="e#1453#2852#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="68" column="46" selection-start-line="68" selection-start-column="46" selection-end-line="68" selection-end-column="46" />
+          <folding>
+            <element signature="e#16#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gloryRoadApi/resources/create.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          <folding>
+            <element signature="e#16#48#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,3 @@
+2019-06-01 08:34:13 log.py[line:19] INFO hi
+2019-06-01 08:34:13 log.py[line:15] ERROR world!
+2019-06-01 08:34:13 log.py[line:23] WARNING gloryroad!
